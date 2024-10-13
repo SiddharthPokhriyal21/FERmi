@@ -1,1 +1,1 @@
-# Facial_Emotion_Recognition
+# Facial Emotion Recognition with meaningful insights (FERmi)
